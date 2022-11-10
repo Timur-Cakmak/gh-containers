@@ -1,0 +1,6 @@
+{
+	"window.zoomLevel": 2,
+	"yaml.schemas": {
+		"https://json.schemastore.org/github-workflow.json": "file:///home/tim/IBS/GITHUB/Starting%20Project_S8/.github/workflows/deploy.yml"
+	}
+}
